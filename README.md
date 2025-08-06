@@ -14,7 +14,7 @@ Secure VPN server hosted on AWS EC2 using OpenVPN.
 AWS EC2, Linux, OpenVPN, SCP, SSH
 
 ## 📊 Architecture Diagram
-![Architecture](architecture.png)
+<img width="666" height="91" alt="image" src="https://github.com/user-attachments/assets/ae8c9f59-5c39-439d-9548-cd249f672ca1" />
 
 ## 🪜 Setup Steps
 1. Launch EC2 instance
