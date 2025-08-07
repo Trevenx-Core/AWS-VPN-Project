@@ -27,3 +27,11 @@ AWS EC2, Linux, OpenVPN, SCP, SSH
 
 ## ✅ Outcome
 Functional VPN tunnel from local device to AWS.
+
+#Possible future improvements
+Creation of IAM role for EC2 with least privilege
+Enable OpenVPN logs and possible implementation of CloudWatch Agent to stream logs
+Hardening of network security through EC2 security settings
+Certificate based authentication
+
+#Proof of concept DO NOT USE IN PRODUCTION
