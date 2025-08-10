@@ -1,6 +1,6 @@
 # 🔒 AWS VPN Project (Proof of Concept)
 
-> **Note:** This project is for demonstration purposes only — **DO NOT USE IN PRODUCTION.**
+>⚠️ **Note:** This project is for demonstration purposes only — **DO NOT USE IN PRODUCTION.**
 
 ---
 
