@@ -29,7 +29,8 @@ It follows best practices for secure remote access, encryption, and network rout
 ---
 
 ## 🧱 Architecture Diagram
-![Architecture Diagram](architecture-diagram.png)
+<img width="975" height="133" alt="image" src="https://github.com/user-attachments/assets/f7fbac0b-9116-4d4b-bf51-24e8c5f79c19" />
+
 
 ---
 
